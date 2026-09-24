@@ -6,8 +6,8 @@
 [Markdown] (https://www.markdownguide.org "Перейти на официальный сайт Markdown")
 ![Скриншот задания](/img/commitStructureLab3_Vasilev.png) -->
 
-[Google] (https://www.google.com/?hl=ru)
-[Yandex] (https://dzen.ru/?yredirect=true)
-[Avito] (https://www.avito.ru)
+[Google](https://www.google.com/?hl=ru)
+[Yandex](https://dzen.ru/?yredirect=true)
+[Avito](https://www.avito.ru)
 ![Image_1](/img/formattingCommitLab3_FIO.Vasilev.png)
 ![Image_2](/img/separatorsCommitLab3_Vasilev.png)
